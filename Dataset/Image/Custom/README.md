@@ -14,3 +14,5 @@ Custom dataset:
  4.7. Noise: Up to 1.01% of pixels
 
 Raw images: https://amritavishwavidyapeetham-my.sharepoint.com/:f:/g/personal/cb_en_u4cse21307_cb_students_amrita_edu/EnZBREzkaZBDjqtDIJAvbUgB1Xy_mdPuUYV1coXsMhmNrQ?e=NUKdfa
+
+Annotated images: https://amritavishwavidyapeetham-my.sharepoint.com/:f:/g/personal/cb_en_u4cse21307_cb_students_amrita_edu/Et7wm0QdF5xClWUYnMwIbisBABAAWcigEukLRlUfHIFQMA?e=da0bkG

@@ -12,3 +12,5 @@ Custom dataset:
  4.5. Exposure: Between -10% and +10%
  4.6. Blur: Up to 1px
  4.7. Noise: Up to 1.01% of pixels
+
+Raw images: https://amritavishwavidyapeetham-my.sharepoint.com/:f:/g/personal/cb_en_u4cse21307_cb_students_amrita_edu/EnZBREzkaZBDjqtDIJAvbUgB1Xy_mdPuUYV1coXsMhmNrQ?e=NUKdfa
